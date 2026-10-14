@@ -2,7 +2,7 @@
 
 Ferramenta desenvolvida em **Microsoft Excel** para simplificar, organizar e centralizar todas as informações necessárias para a Declaração do Imposto de Renda Pessoa Física (IRPF). 
 
-A aplicação funciona como um painel central onde o usuário pode cadastrar dados pessoais, gerenciar contas e informes de rendimentos bancários, registrar entradas de holerites/notas e vincular comprovantes e recibos em PDF.
+A aplicação funciona como um painel central onde o usuário pode cadastrar dados pessoais, gerenciar contas e informes de rendimentos bancários, registrar entradas de holerites/notas e vincular comprovantes em PDF.
 
 ---
 
@@ -27,6 +27,21 @@ A aplicação funciona como um painel central onde o usuário pode cadastrar dad
 
 ## 📁 Estrutura do Repositório
 
-```text
-├── App de IR.xlsx         # Arquivo principal do projeto em Excel
-└── README.md              # Documentação do repositório
+* **`App de IR.xlsx`**: Arquivo principal do projeto em Excel
+* **`README.md`**: Documentação do repositório
+
+---
+
+## 💻 Como Utilizar
+
+1. Faça o download do arquivo **`App de IR.xlsx`** presente neste repositório.
+2. Abra o arquivo no **Microsoft Excel** (ou software compatível).
+3. Navegue pelas abas na ordem recomendada:
+   - **Titular:** Preencha seus dados cadastrais básicos.
+   - **Informes:** Selecione os bancos, informe os saldos atuais e o nome do arquivo anexado.
+   - **Notas:** Lance as entradas e recebimentos mensais (holerites, extratos ou prestação de serviços).
+4. Utilize as informações consolidadas na planilha para facilitar e agilizar o preenchimento no programa oficial do IRPF da Receita Federal.
+
+---
+
+Feito com 💻 e 📊 por Diego Godeguez.
